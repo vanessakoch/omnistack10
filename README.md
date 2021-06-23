@@ -9,10 +9,6 @@ Foi um desenvolvimento essencialmente em JavaScript utilizando Node.js, MongoDB,
 com a exploração de WebSockets. Construímos a aplicação do zero e um backend que serviu tanto para a aplicação Web quanto para a Mobile.
 </p>
 
-## Demonstração
-<blockquote>Clique na imagem para assistir o vídeo</blockquote>
-
-[![Watch the video](https://media-exp1.licdn.com/dms/image/C4D05AQEb8qPp__bbmg/feedshare-captions-thumbnails-dualWrite-inhouse-videocover_high/0?e=1595181600&v=beta&t=DZ56XBYF08alXsFSdaZax3Vcn-xuQsWLfxh8kxa90UM)](https://www.linkedin.com/posts/vanessa-ribeiro-koch-134792b8_javascript-nodejs-reactnative-activity-6624502835436371968-Po9N)
 
 <p>
   Made with 💖 by Vanessa Ribeiro Koch
